@@ -20,7 +20,7 @@
 
 - Currently studying web development at Riwi.
   
-- Personal website [link](https://dagor07.github.io/Portafolio/)
+- Personal website 
 
 <br><br>
 
